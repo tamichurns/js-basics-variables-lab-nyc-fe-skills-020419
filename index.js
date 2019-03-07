@@ -1,3 +1,3 @@
 const companyName = 'Scuber'
-mostProfitableNeighborhood = 'Chelsea'
+let mostProfitableNeighborhood = 'Chelsea'
 
